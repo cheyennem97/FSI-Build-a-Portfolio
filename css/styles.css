@@ -1,0 +1,28 @@
+div { 
+    background: linear-gradient(217deg, rgba(150, 10, 10, 0.753), rgba(255, 0, 0, 0.438) 70.71%),
+    linear-gradient(127deg, rgba(11, 163, 11, 0.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(0, 60, 255, 0.438), rgba(0,0,255,0) 70.71%);
+    text-align: center;
+    color: seashell;
+}
+
+img {
+    border: 5px solid rgba(115, 255, 243, 0.877);
+}
+
+h1 {
+    font-family: cursive; 
+    font-weight: bold;
+ }
+
+ h2 {
+     font-family: cursive;
+     font-weight: 700;
+ }
+
+ h3 { 
+     font-family: fantasy;
+ }
+p{
+    font-family: sans-serif;
+}
